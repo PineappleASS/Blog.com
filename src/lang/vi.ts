@@ -12,7 +12,7 @@ const vi = {
     theme_switcher: "Theme Switcher",
   },
   footer: {
-    about_me: "Tìm hiểu về mình",
+    about_me: "اهلاً انا وليد الغامدي",
     links: [
       // // Format link in Footer
       // {
@@ -23,78 +23,78 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:waok@outlook.sa",
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/waleedalghamdi/",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
+        link: "https://github.com/waleedhamed",
       },
-      {
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
-        icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
-      },
+      // {
+      //   icon: "SiGitlab",
+      //   link: "https://gitlab.com/howznguyen",
+      // },
+      // {
+      //   icon: "SiFacebook",
+      //   link: "https://www.facebook.com/howznguyen",
+      // },
       
     ],
-    develop_by: "Phát triển bởi ",
-    build_with: "Xây dựng bằng ",
-    with: " bằng ",
+    develop_by: "وليد الغامدي ",
+    build_with: "Notion ",
+    with: "  ",
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "اهلاً انا وليد الغامدي",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
+        "❤️ مهندس ميكانيكي, مستشار, صاحب احلام واهداف عالية. قمت بعمل هذا الموقع كمدونة شخصية اعبث فيها واشارك معلومات تعلمتها وتجارب شخصية قد تهمك وقد لا",
       image: "/assets/images/hwz.ngn.jpg",
       links: [
         {
           icon: "HiOutlineNewspaper",
           title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          link: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56a823ad-c36a-4a73-8857-b6e908259d81%2Faf5a1430-e5d8-4d08-bfa4-4361f6ac802e%2FWaleed_H_Alghamdi_-_CV.pdf?id=4fb5e0f9-f932-44cf-af2a-1cbdb167c9b3&table=block",
         },
-        {
-          icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
-        },
+        // {
+        //   icon: "FaFacebook",
+        //   title: "howznguyen",
+        //   link: "https://facebook.com/howznguyen/",
+        // },
         {
           icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          title: "Waleed",
+          link: "https://github.com/waleedhamed",
         },
       ],
     },
-    featured_posts: "Bài Viết Đặc Sắc",
-    read_more: "Xem thêm",
+    featured_posts: "مقالات مميزة",
+    read_more: "شاهد المزيد",
     categories: [
       {
-        name: "Kiến thức",
+        name: "معرفة",
         description:
-          "Các bài viết liên quan về kiến thức lập trình và thuật toán.",
+          "مقالات ذات صلة حول المعرفة.",
         value: ["code", "algorithm"],
       },
       {
         name: "Tutorial & Tips",
         description:
-          "Các bài viết hướng dẫn hoặc mẹo về lập trình và công nghệ.",
+          "مقالات إرشادية أو نصائح .",
         value: ["tutorial", "tip"],
       },
       {
         name: "Notion",
         description:
-          "Các bài viết có nội dung về Notion và các tiện ích xung quanh Notion.",
+          "مقالات ذات محتوى حول Notion والمرافق المحيطة بـ Notion.",
         value: ["notion"],
       },
       {
-        name: "Khác",
-        description: "Các bài viết không thuộc chủ đề công nghệ.",
+        name: "آخر",
+        description: "مقالات اخرى.",
         value: ["other"],
       },
     ],
@@ -115,34 +115,34 @@ const vi = {
       return `${views} lượt xem`;
     },
     tags: "Tags",
-    relate_post: "Những Bài Viết Liên Quan:",
-    table_of_contents: "Mục Lục",
+    relate_post: "مقالات ذات صلة:",
+    table_of_contents: "جدول المحتويات",
   },
   blog: {
     blog: "Blog",
-    intro: "Ở đây bạn có thể tìm thấy tất cả các bài viết của mình",
-    find_posts: "Tìm kiếm bài viết...",
-    not_found_post: "Không có bài viết nào",
+    intro: "هنا يمكنك أن تجد جميع مقالاتي",
+    find_posts: "بحث في المقالات...",
+    not_found_post: "لا توجد مشاركات",
   },
   tag: {
     tag: "Tag",
     tags: "Tags",
-    intro: "Bạn có thể tìm các bài viết theo các tags dưới đây:",
-    not_found_post: "Không có bài viết nào",
-    post_by_tag: "Các bài viết của tag:",
+    intro: "يمكنك العثور على المقالات حسب العلامات أدناه:",
+    not_found_post: "لا توجد مشاركات",
+    post_by_tag: "المشاركات حسب العلامة:",
   },
   error_page: {
     404 : {
-      title: "Trang Không Tồn Tại",
-      head: "Xin lỗi, mình không thể tìm thấy trang này.",
-      desc: "Nhưng đừng lo, bạn có thể tìm thấy nhiều thứ khác trên trang chủ của mình.",
+      title: "الصفحة غير موجودة",
+      head: "آسف، لا أستطيع العثور على هذه الصفحة.",
+      desc: "ولكن لا تقلق، يمكنك العثور على المزيد على صفحتي الرئيسية.",
       home_button: "Trang Chủ"
     }
   },
   common: {
-    error: "Lỗi",
-    is_loading: "Đang tải...",
-    process_take_few_second: "Quá trình này có thể mất vài giây, vui lòng không đóng trang này.",
+    error: "خطأ",
+    is_loading: "تحميل...",
+    process_take_few_second: "قد تستغرق هذه العملية بضع ثوان، يرجى عدم إغلاق هذه الصفحة.",
   }
 };
 
