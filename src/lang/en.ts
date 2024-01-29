@@ -55,41 +55,14 @@ const en = {
   home: {
     intro: {
       header: "Hi, Waleed Alghamdi",
-      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️
-      \n
-      \n
-About Me
-\n
-\n
-Who I Am Today, And How I Got Here
-\n
-\n
-| Curiosity was always my playground.
-\n
-\n
-Here's the story:
-\n
-\n
-Ever since I was a kid, I've been known as "Waleed the Breaker" Why? Because I couldn't resist taking apart every toy to see what was inside. I was always curious about how things worked, and that curiosity hasn't gone away.
-\n
-\n
-In school, physics was my thing. I loved it because it was all about understanding concepts, not just memorizing stuff. Biology? Not so much – too much memorization without really getting why things are the way they are. Tech has always been a big part of my life. From a young age, I was all about learning programming, editing – anything tech-related. When it was time for college, I had a tough choice: Mechanical Engineering, Physics, or Computer Engineering. I went with Mechanical Engineering because I've always been fascinated by how machines work, from cars to planes. But as I got further into my studies at the University of Jeddah, I realized engineering wasn't just about gears and engines. It taught me how to think, how to solve problems, and how to look at things in new ways. That’s why I shifted gears into management consulting, focusing on helping people and companies get better at what they do. 
-\n
-\n
-I am a catalyst for change. I’ve worked on over 25 big projects for top-tier clients in the Middle East and It's not just about the projects; it's about the impact, the transformation, and the evolution they bring.
-\n
-\n
-Outside of work, I’m all about learning new things – whether it’s from podcasts, the latest tech news, or just talking to interesting people. I’m not much for dreaming – I prefer setting solid goals. Someday, I want to be a CEO, start my own business, and keep growing. When I’m not working, I love to travel, meet new people, and face new challenges – especially the kind that make me think. I’m into everything from strategy and tech to marketing and finance. And yeah, I’m pretty ambitious!
-\n
-\n
-So, that's a bit about me. I'm Waleed Alghamdi, and I'm more than just an engineer or a consultant. I'm a guy who loves to learn, help others, and take on whatever challenges come my way.`,
+      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️`,
 
       image: "/assets/images/hwz.ngn.jpg",
       links: [
         {
           icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56a823ad-c36a-4a73-8857-b6e908259d81%2Faf5a1430-e5d8-4d08-bfa4-4361f6ac802e%2FWaleed_H_Alghamdi_-_CV.pdf?id=4fb5e0f9-f932-44cf-af2a-1cbdb167c9b3&table=block",
+          title: "About me",
+          link: "https://waleed-resume.vercel.app/",
         },
         {
           title: "Linkedin",

@@ -56,14 +56,14 @@ const vi = {
       links: [
         {
           icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56a823ad-c36a-4a73-8857-b6e908259d81%2Faf5a1430-e5d8-4d08-bfa4-4361f6ac802e%2FWaleed_H_Alghamdi_-_CV.pdf?id=4fb5e0f9-f932-44cf-af2a-1cbdb167c9b3&table=block",
+          title: "حاب تعرفني اكثر؟",
+          link: "https://waleed-resume.vercel.app/",
         },
-        // {
-        //   icon: "FaFacebook",
-        //   title: "howznguyen",
-        //   link: "https://facebook.com/howznguyen/",
-        // },
+        {
+          title: "Linkedin",
+          icon: "SiLinkedin",
+          link: "https://www.linkedin.com/in/waleedalghamdi/",
+        },
         {
           icon: "FaGithub",
           title: "Waleed",
