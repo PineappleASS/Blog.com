@@ -74,7 +74,6 @@ const en = {
     },
     outro: {
       description: `So, that's a bit about me. I'm Waleed Alghamdi, and I'm more than just an engineer or a consultant. I'm a guy who loves to learn, help others, and take on whatever challenges come my way.`,
-     
     },
       image: "/assets/images/hwz.ngn.jpg",
       links: [
