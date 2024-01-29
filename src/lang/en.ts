@@ -55,25 +55,21 @@ const en = {
   home: {
     intro: {
       header: "Hi, Waleed Alghamdi",
-      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️
+      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️`,
+      header: "Who I Am Today, And How I Got Here",
+      header: "| Curiosity was always my playground.",
+      description: `Here's the story:`,
+      description: `Here's the story:`,
+      description: `Ever since I was a kid, I've been known as "Waleed the Breaker" Why? Because I couldn't resist taking apart every toy to see what was inside. I was always curious about how things worked, and that curiosity hasn't gone away.
       \n
-About Me
-\n
-Who I Am Today, And How I Got Here
-\n
-| Curiosity was always my playground.
-\n
-Here's the story:
-\n
-Ever since I was a kid, I've been known as "Waleed the Breaker" Why? Because I couldn't resist taking apart every toy to see what was inside. I was always curious about how things worked, and that curiosity hasn't gone away.
-\n
-In school, physics was my thing. I loved it because it was all about understanding concepts, not just memorizing stuff. Biology? Not so much – too much memorization without really getting why things are the way they are. Tech has always been a big part of my life. From a young age, I was all about learning programming, editing – anything tech-related. When it was time for college, I had a tough choice: Mechanical Engineering, Physics, or Computer Engineering. I went with Mechanical Engineering because I've always been fascinated by how machines work, from cars to planes. But as I got further into my studies at the University of Jeddah, I realized engineering wasn't just about gears and engines. It taught me how to think, how to solve problems, and how to look at things in new ways. That’s why I shifted gears into management consulting, focusing on helping people and companies get better at what they do. 
-\n
-I am a catalyst for change. I’ve worked on over 25 big projects for top-tier clients in the Middle East and It's not just about the projects; it's about the impact, the transformation, and the evolution they bring.
-\n
-Outside of work, I’m all about learning new things – whether it’s from podcasts, the latest tech news, or just talking to interesting people. I’m not much for dreaming – I prefer setting solid goals. Someday, I want to be a CEO, start my own business, and keep growing. When I’m not working, I love to travel, meet new people, and face new challenges – especially the kind that make me think. I’m into everything from strategy and tech to marketing and finance. And yeah, I’m pretty ambitious!
-\n
-So, that's a bit about me. I'm Waleed Alghamdi, and I'm more than just an engineer or a consultant. I'm a guy who loves to learn, help others, and take on whatever challenges come my way.`,
+      In school, physics was my thing. I loved it because it was all about understanding concepts, not just memorizing stuff. Biology? Not so much – too much memorization without really getting why things are the way they are. Tech has always been a big part of my life. From a young age, I was all about learning programming, editing – anything tech-related. When it was time for college, I had a tough choice: Mechanical Engineering, Physics, or Computer Engineering. I went with Mechanical Engineering because I've always been fascinated by how machines work, from cars to planes. But as I got further into my studies at the University of Jeddah, I realized engineering wasn't just about gears and engines. It taught me how to think, how to solve problems, and how to look at things in new ways. That’s why I shifted gears into management consulting, focusing on helping people and companies get better at what they do. 
+      \n
+      I am a catalyst for change. I’ve worked on over 25 big projects for top-tier clients in the Middle East and It's not just about the projects; it's about the impact, the transformation, and the evolution they bring.
+      \n
+      Outside of work, I’m all about learning new things – whether it’s from podcasts, the latest tech news, or just talking to interesting people. I’m not much for dreaming – I prefer setting solid goals. Someday, I want to be a CEO, start my own business, and keep growing. When I’m not working, I love to travel, meet new people, and face new challenges – especially the kind that make me think. I’m into everything from strategy and tech to marketing and finance. And yeah, I’m pretty ambitious!
+      \n`,
+      description: `So, that's a bit about me. I'm Waleed Alghamdi, and I'm more than just an engineer or a consultant. I'm a guy who loves to learn, help others, and take on whatever challenges come my way.`,
+
       image: "/assets/images/hwz.ngn.jpg",
       links: [
         {
