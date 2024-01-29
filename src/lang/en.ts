@@ -24,55 +24,55 @@ const en = {
       {
         title: "Mail",
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:waok@outlook.sa",
       },
       {
         title: "Linkedin",
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/waleedalghamdi/",
       },
       {
         title: "Github",
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
+        link: "https://github.com/waleedhamed",
       },
-      {
-        title: "Gitlab",
-        icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
-      },
-      {
-        title: "Facebook",
-        icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
-      },
+      // {
+      //   title: "Gitlab",
+      //   icon: "SiGitlab",
+      //   link: "https://gitlab.com/howznguyen",
+      // },
+      // {
+      //   title: "Facebook",
+      //   icon: "SiFacebook",
+      //   link: "https://www.facebook.com/howznguyen",
+      // },
       
     ],
-    develop_by: "Developed by ",
-    build_with: "Built with ",
+    develop_by: "Developed by Waleed ",
+    build_with: "Built with Notion ",
     with: " with ",
   },
   home: {
     intro: {
-      header: "Hi, I'm Howz Nguyen",
+      header: "Hi, Waleed Alghamdi",
       description:
-        "I am currently a Fullstack Developer. This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
+        "I am Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge to everyone. Thank you to everyone who visited. ❤️",
       image: "/assets/images/hwz.ngn.jpg",
       links: [
         {
           icon: "HiOutlineNewspaper",
           title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+          link: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F56a823ad-c36a-4a73-8857-b6e908259d81%2Faf5a1430-e5d8-4d08-bfa4-4361f6ac802e%2FWaleed_H_Alghamdi_-_CV.pdf?id=4fb5e0f9-f932-44cf-af2a-1cbdb167c9b3&table=block",
         },
-        {
-          icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
-        },
+        // {
+        //   icon: "FaFacebook",
+        //   title: "howznguyen",
+        //   link: "https://facebook.com/howznguyen/",
+        // },
         {
           icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          title: "Waleed",
+          link: "https://github.com/waleedHamed",
         },
       ],
     },
@@ -82,12 +82,12 @@ const en = {
       {
         name: "Knowledge",
         description:
-          "Related posts about programming knowledge and algorithms.",
+          "Related posts.",
         value: ["code", "algorithm"],
       },
       {
         name: "Tutorial & Tips",
-        description: "Tutorials or tips about programming and technology.",
+        description: "Tutorials or tips.",
         value: ["tutorial", "tip"],
       },
       {
@@ -98,7 +98,7 @@ const en = {
       },
       {
         name: "Other",
-        description: "The posts are not related to technology topics.",
+        description: "The posts are not related.",
         value: ["other"],
       },
     ],
