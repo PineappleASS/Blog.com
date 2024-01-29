@@ -59,7 +59,6 @@ const en = {
       header: "Who I Am Today, And How I Got Here",
       header: "| Curiosity was always my playground.",
       description: `Here's the story:`,
-      description: `Here's the story:`,
       description: `Ever since I was a kid, I've been known as "Waleed the Breaker" Why? Because I couldn't resist taking apart every toy to see what was inside. I was always curious about how things worked, and that curiosity hasn't gone away.
       \n
       In school, physics was my thing. I loved it because it was all about understanding concepts, not just memorizing stuff. Biology? Not so much – too much memorization without really getting why things are the way they are. Tech has always been a big part of my life. From a young age, I was all about learning programming, editing – anything tech-related. When it was time for college, I had a tough choice: Mechanical Engineering, Physics, or Computer Engineering. I went with Mechanical Engineering because I've always been fascinated by how machines work, from cars to planes. But as I got further into my studies at the University of Jeddah, I realized engineering wasn't just about gears and engines. It taught me how to think, how to solve problems, and how to look at things in new ways. That’s why I shifted gears into management consulting, focusing on helping people and companies get better at what they do. 
