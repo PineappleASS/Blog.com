@@ -55,9 +55,8 @@ const en = {
   home: {
     intro: {
       header: "Hi, Waleed Alghamdi",
-      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️
-      \n
-About Me
+      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️`
+      description2: `About Me
 \n
 Who I Am Today, And How I Got Here
 \n
