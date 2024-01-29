@@ -4,7 +4,7 @@ const vi = {
   locale: "vi",
   lang:[
     { value: "en", label: "Eng" },
-    { value: "vi", label: "Vie" },
+    { value: "vi", label: "Ar" },
   ],
   header: {
     open_navigation : "Open Navigation",
