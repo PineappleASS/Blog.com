@@ -53,10 +53,10 @@ const Footer = ({}: FooterProps) => {
           </Link>
           . {trans.footer.develop_by}
           <Link
-            href="https://github.com/waleedhamed"
+            href="https://github.com/Nawafhamed"
             target="_blank"
           >
-            @waleed
+            @Nawaf
           </Link>
           {trans.footer.with} ❤️
           .

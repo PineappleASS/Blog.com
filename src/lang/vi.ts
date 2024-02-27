@@ -57,7 +57,7 @@ const vi = {
         // {
         //   icon: "HiOutlineNewspaper",
         //   title: "حاب تعرفني اكثر؟",
-        //   link: "https://waleed-resume.vercel.app/",
+        //   link: "https://Nawaf-resume.vercel.app/",
         // },
         {
           title: "Linkedin",
@@ -66,7 +66,7 @@ const vi = {
         },
         {
           icon: "FaGithub",
-          title: "Waleed",
+          title: "Nawaf",
           link: "https://github.com",
         },
       ],

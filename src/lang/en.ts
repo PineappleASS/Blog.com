@@ -62,7 +62,7 @@ const en = {
         // {
         //   icon: "HiOutlineNewspaper",
         //   title: "About me",
-        //   link: "https://waleed-resume.vercel.app/",
+        //   link: "https://Nawaf-resume.vercel.app/",
         // },
         {
           title: "Linkedin",
