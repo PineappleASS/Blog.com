@@ -12,7 +12,7 @@ const vi = {
     theme_switcher: "Theme Switcher",
   },
   footer: {
-    about_me: "اهلاً انا وليد الغامدي",
+    about_me: "اهلاً انا نواف بحلس",
     links: [
       // // Format link in Footer
       // {
@@ -23,15 +23,15 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:waok@outlook.sa",
+        link: "mailto:nawaf.naif1980@Gmail.com",
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/waleedalghamdi/",
+        link: "https://www.linkedin.com",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/waleedhamed",
+        link: "https://github.com",
       },
       // {
       //   icon: "SiGitlab",
@@ -43,31 +43,31 @@ const vi = {
       // },
       
     ],
-    develop_by: "وليد الغامدي ",
+    develop_by: "نواف بحلس ",
     build_with: "Notion ",
     with: "  ",
   },
   home: {
     intro: {
-      header: "اهلاً انا وليد الغامدي",
+      header: "اهلاً انا نواف بحلس",
       description:
-        "❤️مهندس ميكانيكي, مستشار, صاحب احلام واهداف عالية. قمت بعمل هذا الموقع كمدونة شخصية اعبث فيها واشارك معلومات تعلمتها وتجارب شخصية قد تهمك وقد لا",
+        "❤️طالب تقنية معلومات,  صاحب احلام واهداف عالية. قمت بعمل هذا الموقع كمدونة شخصية اعبث فيها واشارك معلومات تعلمتها وتجارب شخصية قد تهمك وقد لا",
       image: "/assets/images/hwz.ngn.jpg",
       links: [
-        {
-          icon: "HiOutlineNewspaper",
-          title: "حاب تعرفني اكثر؟",
-          link: "https://waleed-resume.vercel.app/",
-        },
+        // {
+        //   icon: "HiOutlineNewspaper",
+        //   title: "حاب تعرفني اكثر؟",
+        //   link: "https://waleed-resume.vercel.app/",
+        // },
         {
           title: "Linkedin",
           icon: "SiLinkedin",
-          link: "https://www.linkedin.com/in/waleedalghamdi/",
+          link: "https://www.linkedin.com",
         },
         {
           icon: "FaGithub",
           title: "Waleed",
-          link: "https://github.com/waleedhamed",
+          link: "https://github.com",
         },
       ],
     },

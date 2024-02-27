@@ -24,17 +24,17 @@ const en = {
       {
         title: "Mail",
         icon: "SiGmail",
-        link: "mailto:waok@outlook.sa",
+        link: "mailto:nawaf.naif1980@Gmail.com",
       },
       {
         title: "Linkedin",
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/waleedalghamdi/",
+        link: "https://www.linkedin.com",
       },
       {
         title: "Github",
         icon: "SiGithub",
-        link: "https://github.com/waleedhamed",
+        link: "https://github.com",
       },
       // {
       //   title: "Gitlab",
@@ -48,31 +48,31 @@ const en = {
       // },
       
     ],
-    develop_by: "Developed by Waleed ",
+    develop_by: "Developed by Nawaf Naif Bahlas ",
     build_with: "Built with Notion ",
     with: " with ",
   },
   home: {
     intro: {
-      header: "Hi, Waleed Alghamdi",
-      description: ` I am a Mechanical Engineer, Consultant, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️`,
+      header: "Hi, Nawaf Bahlas",
+      description: ` I am an IT Student, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️`,
 
       image: "/assets/images/hwz.ngn.jpg",
       links: [
-        {
-          icon: "HiOutlineNewspaper",
-          title: "About me",
-          link: "https://waleed-resume.vercel.app/",
-        },
+        // {
+        //   icon: "HiOutlineNewspaper",
+        //   title: "About me",
+        //   link: "https://waleed-resume.vercel.app/",
+        // },
         {
           title: "Linkedin",
           icon: "SiLinkedin",
-          link: "https://www.linkedin.com/in/waleedalghamdi/",
+          link: "https://www.linkedin.com",
         },
         {
           icon: "FaGithub",
-          title: "Waleed",
-          link: "https://github.com/waleedHamed",
+          title: "Nawaf",
+          link: "https://github.com",
         },
       ],
     },
