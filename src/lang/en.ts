@@ -57,7 +57,7 @@ const en = {
       header: "Hi, Nawaf Bahlas",
       description: ` I am an IT Student, Dreamer! This is a website I created with the desire to share my knowledge with everyone. Thank you to everyone who visited. ❤️`,
 
-      image: "/assets/images/hwz.ngn.jpg",
+      image: "/assets/images/hwz.ngn.gif",
       links: [
         // {
         //   icon: "HiOutlineNewspaper",

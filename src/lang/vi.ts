@@ -52,7 +52,7 @@ const vi = {
       header: "اهلاً انا نواف بحلس",
       description:
         "❤️طالب تقنية معلومات,  صاحب احلام واهداف عالية. قمت بعمل هذا الموقع كمدونة شخصية اعبث فيها واشارك معلومات تعلمتها وتجارب شخصية قد تهمك وقد لا",
-      image: "/assets/images/hwz.ngn.jpg",
+      image: "/assets/images/hwz.ngn.gif",
       links: [
         // {
         //   icon: "HiOutlineNewspaper",
