@@ -74,24 +74,24 @@ const vi = {
     featured_posts: "مقالات مميزة",
     read_more: "شاهد المزيد",
     categories: [
-      {
-        name: "معرفة",
-        description:
-          "مقالات ذات صلة حول المعرفة.",
-        value: ["code", "algorithm"],
-      },
-      {
-        name: "Tutorial & Tips",
-        description:
-          "مقالات إرشادية أو نصائح .",
-        value: ["tutorial", "tip"],
-      },
-      {
-        name: "Notion",
-        description:
-          "مقالات ذات محتوى حول Notion والمرافق المحيطة بـ Notion.",
-        value: ["notion"],
-      },
+      // {
+      //   name: "معرفة",
+      //   description:
+      //     "مقالات ذات صلة حول المعرفة.",
+      //   value: ["code", "algorithm"],
+      // },
+      // {
+      //   name: "Tutorial & Tips",
+      //   description:
+      //     "مقالات إرشادية أو نصائح .",
+      //   value: ["tutorial", "tip"],
+      // },
+      // {
+      //   name: "Notion",
+      //   description:
+      //     "مقالات ذات محتوى حول Notion والمرافق المحيطة بـ Notion.",
+      //   value: ["notion"],
+      // },
       {
         name: "آخر",
         description: "مقالات اخرى.",

@@ -79,23 +79,23 @@ const en = {
     featured_posts: "Featured Posts",
     read_more: "Read more",
     categories: [
-      {
-        name: "Knowledge",
-        description:
-          "Related posts.",
-        value: ["code", "algorithm", "Knowledge"],
-      },
-      {
-        name: "Tutorial & Tips",
-        description: "Tutorials or tips.",
-        value: ["tutorial", "tip"],
-      },
-      {
-        name: "Notion",
-        description:
-          "Articles with content about Notion and utilities around Notion.",
-        value: ["notion"],
-      },
+      // {
+      //   name: "Knowledge",
+      //   description:
+      //     "Related posts.",
+      //   value: ["code", "algorithm", "Knowledge"],
+      // },
+      // {
+      //   name: "Tutorial & Tips",
+      //   description: "Tutorials or tips.",
+      //   value: ["tutorial", "tip"],
+      // },
+      // {
+      //   name: "Notion",
+      //   description:
+      //     "Articles with content about Notion and utilities around Notion.",
+      //   value: ["notion"],
+      // },
       {
         name: "Other",
         description: "The posts are not related.",
