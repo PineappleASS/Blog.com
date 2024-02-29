@@ -90,12 +90,12 @@ const en = {
       //   description: "Tutorials or tips.",
       //   value: ["tutorial", "tip"],
       // },
-      // {
-      //   name: "Notion",
-      //   description:
-      //     "Articles with content about Notion and utilities around Notion.",
-      //   value: ["notion"],
-      // },
+      {
+        name: "Courses",
+        description:
+        "Courses I took In King Abdulaziz University.",
+         value: ["Courses"],
+       },
       {
         name: "Other",
         description: "The posts are not related.",

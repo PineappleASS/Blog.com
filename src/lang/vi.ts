@@ -86,12 +86,12 @@ const vi = {
       //     "مقالات إرشادية أو نصائح .",
       //   value: ["tutorial", "tip"],
       // },
-      // {
-      //   name: "Notion",
-      //   description:
-      //     "مقالات ذات محتوى حول Notion والمرافق المحيطة بـ Notion.",
-      //   value: ["notion"],
-      // },
+      {
+        name: "Courses",
+         description:
+          "المواد التي حصلت عليها في جامعة الملك عبد العزيز.",
+         value: ["Courses"],
+       },
       {
         name: "آخر",
         description: "مقالات اخرى.",
