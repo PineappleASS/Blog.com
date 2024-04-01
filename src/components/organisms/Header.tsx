@@ -7,7 +7,7 @@ interface HeaderProps {
 }
 
 const Header = ({ settings, navigation }: HeaderProps) => {
-  const siteName = settings?.site_name ?? "Howz Nguyen Blog";
+  const siteName = settings?.site_name ?? "NawafBahlas Blog";
 
   return (
     <div className="flex items-center justify-between">
